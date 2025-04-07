@@ -1,4 +1,4 @@
-# Booksmart
+# Booksmart :books:
 
 Booksmart is a literary analysis tool that uses Natural Language Processing (NLP) to automatically extract and analyze key elements from EPUB books, including characters, themes, motifs, plotlines, and character relationships.
 
