@@ -1,0 +1,6 @@
+ebooklib
+beautifulsoup4
+spacy
+spacy[cuda12x]
+networkx
+scikit-learn
