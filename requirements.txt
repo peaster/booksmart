@@ -1,6 +1,12 @@
-ebooklib
-beautifulsoup4
 spacy
 spacy[cuda12x]
+argparse
+numpy
+tqdm
+torch
+ebooklib
+beautifulsoup4
 networkx
 scikit-learn
+sentence-transformers
+accelerate
